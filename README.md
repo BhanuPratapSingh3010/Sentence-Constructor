@@ -1,8 +1,8 @@
-# Fill in the Blanks Quiz 🧠
+# Sentence Constructor Assignment
 
-This is a small React-based quiz project that asks users to fill in the blanks from a sentence. It's built to help users test their knowledge while racing against a 30-second timer ⏱️ per question.
+This is a small React-based quiz project that asks users to fill in the blanks from a sentence. It's built to help users test their knowledge while racing against a 30-second timer per question.
 
-## 🔧 Features
+## Features
 
 - Interactive fill-in-the-blank style questions
 - 30-second countdown timer per question
@@ -10,7 +10,7 @@ This is a small React-based quiz project that asks users to fill in the blanks f
 - Score calculation and result summary
 - Full answer review at the end
 
-## 🧑‍💻 Built With
+## Built With
 
 - ReactJS
 - TailwindCSS (for styling)
