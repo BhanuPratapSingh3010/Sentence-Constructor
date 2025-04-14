@@ -1,12 +1,26 @@
-# React + Vite
+# Sentence Constructor Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a small React-based quiz project that asks users to fill in the blanks from a sentence. It's built to help users test their knowledge while racing against a 30-second timer per question.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive fill-in-the-blank style questions
+- 30-second countdown timer per question
+- Immediate feedback after submission
+- Score calculation and result summary
+- Full answer review at the end
 
-## Expanding the ESLint configuration
+## Built With
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ReactJS
+- TailwindCSS (for styling)
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+   ```bash
+  git clone https://github.com/BhanuPratapSingh3010/Sentence-Constructor.git
+
+2. npm install
+3. npm run dev
