@@ -20,7 +20,7 @@ This is a small React-based quiz project that asks users to fill in the blanks f
 1. Clone the repository:
 
    ```bash
-   https://github.com/BhanuPratapSingh3010/Sentence-Constructor.git
+  git clone https://github.com/BhanuPratapSingh3010/Sentence-Constructor.git
 
 2. npm install
 3. npm run dev
