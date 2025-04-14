@@ -1,6 +1,3 @@
-// App.jsx
-// Main app file that controls quiz state and renders components
-
 import { useState, useEffect } from "react";
 import FillInTheBlank from "./components/FillInTheBlank";
 import ReviewAnswers from "./components/ReviewAnswers";
